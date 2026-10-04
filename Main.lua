@@ -3698,8 +3698,8 @@ do
             end)
         end
 
-
+        Library.Images = Images
         Menu.Library = Library
-        return Library
+        return Library;
     end
 end
